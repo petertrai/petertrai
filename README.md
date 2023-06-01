@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/petertrai](https://github.com/petertrai)
 
-- 💬 Ask me about **where I intend to work1**
+- 💬 Ask me about **my cat, Sneaker!**
 
 - 📫 How to reach me **petertrai@gmail.com**
 
