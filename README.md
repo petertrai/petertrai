@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/petertrai](https://github.com/petertrai)
 
-- 💬 Ask me about **my cat, Sneaker!**
+- 🐈 Ask me about **my cat, Sneaker!**
 
 - 📫 How to reach me **petertrai@gmail.com**
 
-- ⚡ Fun fact **I love dogs**
+- ⚡ Fun fact **Im a League enthusiast :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
