@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter!</h1>
 <h3 align="center">A passionate frontend developer from Pasadena, California</h3>
 
-- 🔭 I’m currently working on ** React ⚛️**
+- 🔭 I’m currently working on **React ⚛**
 
 - 👯 I’m looking to collaborate on **any cool project ideas!**
 
