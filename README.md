@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter!</h1>
-<h3 align="center">A passionate frontend developer from Pasadena, California</h3>
+<h3 align="center">A passionate fullstack web developer from Pasadena, California</h3>
 
 - 🔭 I’m currently working on **React ⚛**
 
