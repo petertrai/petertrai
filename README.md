@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React ⚛**
 
-- 👯 I’m looking to collaborate on **any cool project ideas!**
+- 👯 I’m looking to collaborate on **any awesome project ideas!**
 
 - 🤝 I’m looking for help with **finding cool coding related events!**
 
