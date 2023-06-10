@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on **mastering React ⚛️**
 
-- 🌱 I’m currently learning **React ⚛️**
-
-- 👯 I’m looking to collaborate on **any awesom project ideas!**
-
-- 🤝 I’m looking for help with **finding cool coding related events!**
+- 🌱 I’m currently learning **Redux ⚛️**
 
 - 👨‍💻 All of my projects are available at [https://github.com/petertrai](https://github.com/petertrai)
 
@@ -17,7 +13,7 @@
 
 - 📫 How to reach me **petertrai@gmail.com**
 
-- ⚡ Fun fact: **I am a League enthusiast!**
+- ⚡ Fun fact: **I am a Game enthusiast!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
