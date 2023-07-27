@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter!</h1>
-<h3 align="center">A passionate developer from Los Angeles with passion for engineering, design, problem solving and cycling!</h3>
+<h3 align="center">A passionate developer from Los Angeles with passion for engineering, problem solving and cycling!</h3>
 
 - 📫 How to reach me **petertrai@gmail.com**
 
