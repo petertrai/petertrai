@@ -1,19 +1,9 @@
 <h1 align="center">Hi 👋, I'm Peter!</h1>
-<h3 align="center">A BloomTech Graduate and Fullstack Developer from Pasadena, California</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petertrai" alt="petertrai" /></a> </p>
-
-- 🔭 I’m currently working on **React ⚛️**
-
-- 🌱 I’m currently learning **Redux**
-
-- 👨‍💻 All of my projects are available at [https://github.com/petertrai](https://github.com/petertrai)
-
-- 🐈 Ask me about **my cat, Sneaker**
+<h3 align="center">BloomTech Graduate and Fullstack Developer from Pasadena, California</h3>
 
 - 📫 How to reach me **petertrai@gmail.com**
 
-- ⚡ Fun fact: **I am a League enthusiast!**
+- ⚡ Fun fact: **I am an avid cyclist and love traveling!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
