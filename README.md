@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter!</h1>
-<h3 align="center">BloomTech Graduate and Fullstack Developer from Pasadena, California</h3>
+<h3 align="center">BloomTech Graduate and Fullstack Developer with a passion for engineering, design and cycling from Pasadena, California</h3>
 
 - 📫 How to reach me **petertrai@gmail.com**
 
